@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.dd897f60.chunk.css",
-  "main.js": "/static/js/main.4b7b64cb.chunk.js",
-  "main.js.map": "/static/js/main.4b7b64cb.chunk.js.map",
-  "static/js/1.86f4eb41.chunk.js": "/static/js/1.86f4eb41.chunk.js",
-  "static/js/1.86f4eb41.chunk.js.map": "/static/js/1.86f4eb41.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.dd897f60.chunk.css.map": "/static/css/main.dd897f60.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.3535bc92770ee4514acc864608467235.js": "/precache-manifest.3535bc92770ee4514acc864608467235.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/dictionary-react-app/static/css/main.a0a05f0d.chunk.css",
+  "main.js": "/dictionary-react-app/static/js/main.9b560457.chunk.js",
+  "main.js.map": "/dictionary-react-app/static/js/main.9b560457.chunk.js.map",
+  "static/js/1.5a7c5411.chunk.js": "/dictionary-react-app/static/js/1.5a7c5411.chunk.js",
+  "static/js/1.5a7c5411.chunk.js.map": "/dictionary-react-app/static/js/1.5a7c5411.chunk.js.map",
+  "runtime~main.js": "/dictionary-react-app/static/js/runtime~main.9cd242a5.js",
+  "runtime~main.js.map": "/dictionary-react-app/static/js/runtime~main.9cd242a5.js.map",
+  "static/css/main.a0a05f0d.chunk.css.map": "/dictionary-react-app/static/css/main.a0a05f0d.chunk.css.map",
+  "index.html": "/dictionary-react-app/index.html",
+  "precache-manifest.5941c3532aed2acdfff32227e511c953.js": "/dictionary-react-app/precache-manifest.5941c3532aed2acdfff32227e511c953.js",
+  "service-worker.js": "/dictionary-react-app/service-worker.js"
 }
